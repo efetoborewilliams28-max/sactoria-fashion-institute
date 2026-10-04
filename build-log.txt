@@ -1,0 +1,89 @@
+
+> sactoria-fashion-institute@1.0.0 build
+> next build
+
+  ▲ Next.js 14.2.15
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/8) ...
+   Generating static pages (2/8) 
+Error: @supabase/ssr: Your project's URL and API key are required to create a Supabase client!
+
+Check your Supabase project's API settings to find these values
+
+https://supabase.com/dashboard/project/_/settings/api
+    at s$ (/workspaces/sactoria-fashion-institute/.next/server/chunks/432.js:24:71267)
+    at r (/workspaces/sactoria-fashion-institute/.next/server/app/admin/(dashboard)/settings/page.js:1:7878)
+    at n (/workspaces/sactoria-fashion-institute/.next/server/app/admin/(dashboard)/settings/page.js:1:7501)
+    at nj (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:46251)
+    at nM (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:47571)
+    at nM (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61546)
+    at nN (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64546)
+    at nB (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:67538)
+    at nD (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:66680)
+    at nN (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64853) {
+  digest: '672128763'
+}
+
+Error occurred prerendering page "/admin/items/new". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: @supabase/ssr: Your project's URL and API key are required to create a Supabase client!
+
+Check your Supabase project's API settings to find these values
+
+https://supabase.com/dashboard/project/_/settings/api
+    at s$ (/workspaces/sactoria-fashion-institute/.next/server/chunks/432.js:24:71267)
+    at r (/workspaces/sactoria-fashion-institute/.next/server/app/admin/(dashboard)/settings/page.js:1:7878)
+    at n (/workspaces/sactoria-fashion-institute/.next/server/app/admin/(dashboard)/settings/page.js:1:7501)
+    at nj (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:46251)
+    at nM (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:47571)
+    at nM (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61546)
+    at nN (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64546)
+    at nB (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:67538)
+    at nD (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:66680)
+    at nN (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64853)
+   Generating static pages (4/8) 
+Error: @supabase/ssr: Your project's URL and API key are required to create a Supabase client!
+
+Check your Supabase project's API settings to find these values
+
+https://supabase.com/dashboard/project/_/settings/api
+    at s$ (/workspaces/sactoria-fashion-institute/.next/server/chunks/432.js:24:71267)
+    at r (/workspaces/sactoria-fashion-institute/.next/server/app/admin/(dashboard)/settings/page.js:1:7878)
+    at o (/workspaces/sactoria-fashion-institute/.next/server/app/admin/login/page.js:1:2068)
+    at nj (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:46251)
+    at nM (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:47571)
+    at nN (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64546)
+    at nI (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:47010)
+    at nM (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:47717)
+    at nM (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61546)
+    at nN (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64546) {
+  digest: '211902643'
+}
+
+Error occurred prerendering page "/admin/login". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: @supabase/ssr: Your project's URL and API key are required to create a Supabase client!
+
+Check your Supabase project's API settings to find these values
+
+https://supabase.com/dashboard/project/_/settings/api
+    at s$ (/workspaces/sactoria-fashion-institute/.next/server/chunks/432.js:24:71267)
+    at r (/workspaces/sactoria-fashion-institute/.next/server/app/admin/(dashboard)/settings/page.js:1:7878)
+    at o (/workspaces/sactoria-fashion-institute/.next/server/app/admin/login/page.js:1:2068)
+    at nj (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:46251)
+    at nM (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:47571)
+    at nN (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64546)
+    at nI (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:47010)
+    at nM (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:47717)
+    at nM (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61546)
+    at nN (/workspaces/sactoria-fashion-institute/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64546)
+   Generating static pages (6/8) 
+ ✓ Generating static pages (8/8)
+
+> Export encountered errors on following paths:
+	/admin/(dashboard)/items/new/page: /admin/items/new
+	/admin/login/page: /admin/login
